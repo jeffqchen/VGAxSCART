@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name VGA2SCART)(type Legacy)(uri ${KIPRJMOD}/VGA2SCART.lib)(options "")(descr ""))
+)

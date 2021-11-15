@@ -1,0 +1,10 @@
+### Missing 3D models - created on 2021-10-20 16:48
+### Printed by checking_3D_models plugin
+Board file: /Users/jeffchen/KiCAD/VGA2SCART/VGA2SCART.kicad_pcb
+3D missing models written to:
+/Users/jeffchen/KiCAD/VGA2SCART/VGA2SCART_missing3Dmodels.txt
+-------
+(u'P1', u'/Users/jeffchen/KiCAD/VGA2SCART/File/VGA/VGA Female Slim.step')
+-------
+NBR of 3D missing models:1
+checked extensions ['.stp', '.step', '.stpZ']
