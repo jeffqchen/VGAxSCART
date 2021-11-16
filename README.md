@@ -39,20 +39,20 @@ PCB
 
 ## Assembly
 
-Solder in the SMD resistors onto the PCB.
+Solder the SMD resistors onto the PCB.
 
-Solder close the directional jumper:
+Close the directional jumper with solder:
 - Triangle: VGA to SCART
 - No triangle: SCART to VGA
 
-Insert the SCART header with its shielding into the top shell. Then fit the PCB without the VGA header in between the two rows of the contacts on the SCART
+Insert the SCART header with its shielding into the top shell. Then fit the PCB without the VGA header in between the two rows of the contacts on the SCART header.
 
-Press the PCB inwards to hold it in place. Solder down two contacts on the SCART header to the PCB.
+Press the PCB inwards and downwards to hold it in place. Solder down two contacts on the SCART header to the PCB.
 
-Take out the assembly and go on soldering all the rest of the contacts on the SCART header onto the PCB. Then, solder in the VGA port.
+Take the assembly out of the shell and go on to solder all the rest of the contacts on the SCART header onto the PCB. Make sure the PCB is perpendicular to the bottom of the SCART header Then, solder in the VGA port.
 
 <img src="./Pics/03.jpg" width="300px" />
 
-Finally, fit the assembly into the top shell, and close the bottom shell with the top with two sets of M2x20mm screws and nuts.
+Finally, fit the assembly back into the top shell, and close the bottom shell with the top with two sets of M2x20mm screws and nuts.
 
-Note the screws travel in a slightly diagonal direction. Please pay attention to the direction when tightening the screws.
+Note the screws travel in a slightly diagonal direction. Pay attention to the direction when tightening the screws.
