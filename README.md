@@ -1,7 +1,8 @@
 # VGAxSCART
 
 <img src="./Pics/04.jpg" width="600px" />
-<img src="./Pics/05.jpg" width="300px" /><img src="./Pics/06.jpg" width="300px" />
+<img src="./Pics/05.jpg" width="600px" />
+<img src="./Pics/06.jpg" width="600px" />
 
 A VGAxSCART Adapter for RGBS. This is a link in my [RGBS dongle series](https://github.com/jeffqchen/Console-VGA-Dongle-Series).
 
