@@ -52,7 +52,9 @@ Insert the SCART header with its shielding into the top shell. Then fit the PCB 
 
 Press the PCB inwards and downwards to hold it in place. Solder down two contacts on the SCART header to the PCB.
 
-Take the assembly out of the shell and go on to solder all the rest of the contacts on the SCART header onto the PCB. Make sure the PCB is perpendicular to the bottom of the SCART header Then, solder in the VGA port.
+Take the assembly out of the shell. Inspect if the SCART plug is straight. If the plug is crooked, melt the soldered contacts and adjust the plug until it is. Otherwise it will be very hard to close up the shell.
+
+ Go on and solder all the rest of the contacts on the SCART header onto the PCB. Make sure the PCB is perpendicular to the bottom of the SCART header Then, solder in the VGA port.
 
 <img src="./Pics/03.jpg" width="300px" />
 
