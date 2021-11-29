@@ -1,5 +1,7 @@
 # VGAxSCART
-<img src="./Pics/02.jpg" width="600px" />
+
+<img src="./Pics/04.jpg" width="600px" />
+<img src="./Pics/05.jpg" width="300px" /><img src="./Pics/06.jpg" width="300px" />
 
 A VGAxSCART Adapter for RGBS. This is a link in my [RGBS dongle series](https://github.com/jeffqchen/Console-VGA-Dongle-Series).
 
@@ -7,7 +9,7 @@ This dongle passes RGB and Sync video signals, as well as stereo audio between S
 
 The SCART fast switching/blanking voltage is preserved for compatibility, while the function switching/aspect ratio voltage is discarded for better safety.
 
-<img src="./Pics/01.jpg" width="600px" />
+<img src="./Pics/02.jpg" width="300px" /><img src="./Pics/01.jpg" width="300px" />
 
 This design is bi-directional. You can choose the direction during assembly by closing the corresponding jumper pads on the PCB.
 
