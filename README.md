@@ -1,12 +1,14 @@
 # VGAxSCART
 
 <img src="./Pics/04.jpg" width="600px" />
-<img src="./Pics/05.jpg" width="600px" />
-<img src="./Pics/06.jpg" width="600px" />
 
-A VGAxSCART Adapter for RGBS. This is a link in my [RGBS dongle series](https://github.com/jeffqchen/Console-VGA-Dongle-Series).
+A VGAxSCART Adapter for RGBS. This is one of the different links in my [RGBS dongle series](https://github.com/jeffqchen/Console-VGA-Dongle-Series).
+
 
 This dongle passes RGB and Sync video signals, as well as stereo audio between SCART and VGA. Note it does not convert H+V Sync from/into CSync.
+
+<img src="./Pics/05.jpg" width="600px" />
+<img src="./Pics/06.jpg" width="600px" />
 
 The SCART fast switching/blanking voltage is preserved for compatibility, while the function switching/aspect ratio voltage is discarded for better safety.
 
@@ -20,23 +22,19 @@ This design is bi-directional. You can choose the direction during assembly by c
 
 ## Parts
 
-D-Sub HD15 VGA port femal slim
-- https://www.aliexpress.com/item/4000596805684.html
+- [PCB](https://oshpark.com/shared_projects/xI1fDZ8w)
 
-SCART Male Plug
-- https://www.aliexpress.com/item/4000577027139.html
+- VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
 
-[2x] M2x20mm Screws and Nuts
-- https://www.amazon.com/gp/product/B014OO5KQG
+- SCART Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/SCART/Male%20Cable/info.md)
+
+- [2x] M2x20mm Screws and Nuts - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
 SMD Resistor, 0603 size
 - [1x] 180 Ohm
 - [1x] 470 Ohm
 
-PCB
-- https://oshpark.com/shared_projects/xI1fDZ8w
-
-3D Printed Shell
+- 3D Printed Shell
 
 --------
 
