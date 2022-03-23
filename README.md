@@ -24,7 +24,7 @@ This design is bi-directional. You can choose the direction during assembly by c
 
 - [PCB](https://oshpark.com/shared_projects/xI1fDZ8w)
 
-- VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
+- VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
 
 - SCART Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/SCART/Male%20Cable/info.md)
 
