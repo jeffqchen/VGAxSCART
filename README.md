@@ -19,7 +19,6 @@ This design is bi-directional. You can choose the direction during assembly by c
 3D printed shells for each direction are also provided.
 
 --------
-
 ## Parts
 
 - [PCB](https://oshpark.com/projects/7dVfe56C)
@@ -37,16 +36,19 @@ SMD Resistor, 0603 size
 - 3D Printed Shell
 
 --------
-
-## Assembly
-
-Solder the SMD resistors onto the PCB.
-
+## Configuration
+### Choose Bwteen In Or Out
 Close the directional jumper with solder:
 - Triangle: VGA to SCART
 - No triangle: SCART to VGA
 
-In case you are NOT using CSync but CVBS or Luma as sync, close jumper JP6 next to R2.
+#### Close Jumper for CVBS/LUMA Sync Signal
+In case you are using CVBS or Luma as sync, close jumper JP6 next to R2.
+
+--------
+## Assembly
+
+Solder the SMD resistors onto the PCB.
 
 Insert the SCART header with its shielding into the top shell. Then fit the PCB without the VGA header in between the two rows of the contacts on the SCART header.
 
