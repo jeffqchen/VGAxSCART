@@ -22,7 +22,7 @@ This design is bi-directional. You can choose the direction during assembly by c
 
 ## Parts
 
-- [PCB](https://oshpark.com/shared_projects/xI1fDZ8w)
+- [PCB](https://oshpark.com/projects/7dVfe56C)
 
 - VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
 
@@ -45,6 +45,8 @@ Solder the SMD resistors onto the PCB.
 Close the directional jumper with solder:
 - Triangle: VGA to SCART
 - No triangle: SCART to VGA
+
+In case you are NOT using CSync but CVBS or Luma as sync, close jumper JP6 next to R2.
 
 Insert the SCART header with its shielding into the top shell. Then fit the PCB without the VGA header in between the two rows of the contacts on the SCART header.
 
