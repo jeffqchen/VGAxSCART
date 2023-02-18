@@ -42,8 +42,11 @@ Close the directional jumper with solder:
 - Triangle: VGA to SCART
 - No triangle: SCART to VGA
 
-#### Close Jumper for CVBS/LUMA Sync Signal
+### Close Jumper for CVBS/LUMA Sync Signal
 In case you are using CVBS or Luma as sync, close jumper JP6 next to R2.
+
+### Shielding Connection Jumpers
+The two jumpers connecting GND to each of the VGA shielding pins should be left open when it's on the sink side, and closed when it's on the source side.
 
 --------
 ## Assembly
